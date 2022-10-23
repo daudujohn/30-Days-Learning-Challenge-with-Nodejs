@@ -1,3 +1,23 @@
+# Day 9 | Core Module: child_process, cluster and worker_threads
+
+---
+
+***“JavaScript is single threaded”***
+
+******This statement is often mentioned in the Nodejs community 😅. What it means is that all the JavaScript code in a Nodejs process will be executed on a single thread.
+
+Today, we will be looking at three core modules in Nodejs that enable us: 
+
+- create new processes
+- create new Nodejs processes and
+- utilize multi-core CPUs through multithreading
+
+---
+
+# Learning
+
+[Core Module: child_process, cluster and worker_threads](https://www.notion.so/Core-Module-child_process-cluster-and-worker_threads-d7ffa7ec071e42a99e944a091bf8a02e)
+
 # Core Module: child_process, cluster and worker_threads
 
 ---
