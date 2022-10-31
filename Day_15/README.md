@@ -31,6 +31,18 @@ Takeaways:
 
 [Install Postman](https://www.notion.so/Install-Postman-c9a3d7689a9948528b6abc4945c91261)
 
+# Install Postman
+
+---
+
+It’s a pretty straightforward process. **Download** **the installe**r for your **OS** and **run** **the installer**.
+
+---
+
+[https://www.postman.com/downloads/](https://www.postman.com/downloads/)
+
+[Download Postman | Get Started for Free](https://www.postman.com/downloads/)
+
 ### Testing Installation
 
 - After installing **Postman**, open yesterday’s task folder and start the HTTP server we created using `node index.js`
