@@ -27,4 +27,4 @@ Takeaways:
 
 ### Source:
 
-[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-2-JavaScript-Refresher-96ecdd77ddb3462ba90ea6f7c83af90b)
+[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-16-Global-Object-JSON-8a985e4d9c014348af99c27266bf8ac6)

@@ -53,4 +53,4 @@ This is very similar to the `http.request()` method except that it is specifical
 
 ### Source:
 
-[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-2-JavaScript-Refresher-96ecdd77ddb3462ba90ea6f7c83af90b)
+[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-19-Servers-Acting-as-Clients-6c935caa42f64bcea9fd6a017a9ecca0)

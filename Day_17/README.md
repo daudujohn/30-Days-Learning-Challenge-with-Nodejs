@@ -137,4 +137,4 @@ Output on Server
 
 ### Source:
 
-[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-2-JavaScript-Refresher-96ecdd77ddb3462ba90ea6f7c83af90b)
+[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-17-MIME-types-ec825b0771b54f77a732bcb146867526)

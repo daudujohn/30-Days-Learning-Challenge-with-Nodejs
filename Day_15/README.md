@@ -55,4 +55,4 @@ Note**: we created two HTTP servers yesterday. Make sure to use the HTTP server 
 😑
 ### Source:
 
-[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-2-JavaScript-Refresher-96ecdd77ddb3462ba90ea6f7c83af90b)
+[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-15-Introduction-to-Postman-ec071318c1cc4235a36f55ac3b8ec60e)

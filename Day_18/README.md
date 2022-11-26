@@ -22,4 +22,4 @@ Check out the below video for an example
 
 ### Source:
 
-[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-2-JavaScript-Refresher-96ecdd77ddb3462ba90ea6f7c83af90b)
+[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-18-Routing-275a3823b61d49c69c4ed52fb0bee3b7)
