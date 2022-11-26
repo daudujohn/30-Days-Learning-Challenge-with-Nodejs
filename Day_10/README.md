@@ -36,4 +36,4 @@ The below video shows patterns of working with asynchronous code in Nodejs.
 
 ### Source:
 
-[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-2-JavaScript-Refresher-96ecdd77ddb3462ba90ea6f7c83af90b)
+[GDSC, Israel Galadima]https://israelgaladima.notion.site/Day-10-Asynchrony-and-Error-Handling-94e0bfd35aa04e78b779734cbec9aeed)

@@ -55,4 +55,4 @@ For **MODE is unset**
 
 ### Source:
 
-[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-2-JavaScript-Refresher-96ecdd77ddb3462ba90ea6f7c83af90b)
+[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-5-Global-Object-Process-ca19d368671f4417b659bdbd8c3adb7e)

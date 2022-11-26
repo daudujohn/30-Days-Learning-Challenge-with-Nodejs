@@ -45,4 +45,4 @@ We are going to be writing a program to examine the memory footprint of a Nodejs
 
 ### Source:
 
-[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-2-JavaScript-Refresher-96ecdd77ddb3462ba90ea6f7c83af90b)
+[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-6-Core-Module-fs-and-path-c81bc3e5587b446b85284ce164d01a0d)

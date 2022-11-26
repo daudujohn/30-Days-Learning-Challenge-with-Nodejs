@@ -44,4 +44,4 @@ We will be exploring the **streams core module** from yesterday which implements
 
 ### Source:
 
-[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-2-JavaScript-Refresher-96ecdd77ddb3462ba90ea6f7c83af90b)
+[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-8-Core-Module-events-c47c6ba31d0640aca13c69ebfa1793a8)

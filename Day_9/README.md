@@ -72,4 +72,4 @@ Used to run computationally intensive tasks in a thread separate from the main J
 
 ### Source:
 
-[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-2-JavaScript-Refresher-96ecdd77ddb3462ba90ea6f7c83af90b)
+[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-9-Core-Module-child_process-cluster-and-worker_threads-6c22100e7df94f0697dde4e79a14ec5c)

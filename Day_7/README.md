@@ -42,4 +42,4 @@ Memory usage for `fs.readFileSync()` (from yesterday)
 
 ### Source:
 
-[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-2-JavaScript-Refresher-96ecdd77ddb3462ba90ea6f7c83af90b)
+[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-7-Core-Module-stream-447ac193ef1643fca3630e59ed85925b)

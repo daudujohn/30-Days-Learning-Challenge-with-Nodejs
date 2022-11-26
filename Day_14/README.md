@@ -70,4 +70,4 @@ What do you notice in the browser when testing each case?
 
 ### Source:
 
-[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-2-JavaScript-Refresher-96ecdd77ddb3462ba90ea6f7c83af90b)
+[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-14-Core-Module-http-7de83989e6084266ad4930e3a20df2e7)

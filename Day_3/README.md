@@ -40,4 +40,4 @@ We are going to be creating a function that accepts two numbers as parameters an
 
 ### Source:
 
-[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-2-JavaScript-Refresher-96ecdd77ddb3462ba90ea6f7c83af90b)
+[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-3-File-Modules-3e087d6f58734e8d8b390969e57421df)

@@ -39,4 +39,4 @@ Using **CommonJS modules (require)**
 
 ### Source:
 
-[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-2-JavaScript-Refresher-96ecdd77ddb3462ba90ea6f7c83af90b)
+[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-4-Packages-and-Package-Managers-2aa336970c6342f4bc758a0f7a90df92)

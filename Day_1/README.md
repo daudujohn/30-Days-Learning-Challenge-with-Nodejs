@@ -47,4 +47,4 @@ Today, you’d be getting introduced to **Nodejs**, which is a **runtime for Jav
 
 ### Source:
 
-[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-2-JavaScript-Refresher-96ecdd77ddb3462ba90ea6f7c83af90b)
+[GDSC, Israel Galadima](https://israelgaladima.notion.site/Day-1-Welcome-to-Nodejs-da4aafcd77074f92bc7c58e6f8cae02d)
