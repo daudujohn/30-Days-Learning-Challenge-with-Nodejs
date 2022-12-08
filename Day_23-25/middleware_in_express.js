@@ -1,14 +1,12 @@
 'use strict';
 const express = require('express');
 const app = express();
-const http = require('http');
+const cors = require('cors');
+
 const {sup, how} = require('./middle');
 
-console.log(http.STATUS_CODES);
-
 app.use(sup)
-
-
+app.use(cors())
 app.get('/', how, sup, (req, res) => {
     console.log(req.url);
     res.send({data: 'Hi there'}); // express can determine content-type automatically
